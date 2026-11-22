@@ -1,1 +1,0 @@
-# is-single-gob-3d
